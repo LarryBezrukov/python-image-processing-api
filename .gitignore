@@ -1,0 +1,33 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.sass-cache
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# SQLite database files
+*.db
+
